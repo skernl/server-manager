@@ -1,0 +1,18 @@
+{
+    "name": "wheakerd/server-manger",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wheakerd\\ServerManger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wheakerd",
+            "email": "wheakerd@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
