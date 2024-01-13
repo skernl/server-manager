@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Wheakerd\\ServerManger\\": "src/"
+            "Skernl\\ServerManger\\": "src/"
         }
     },
     "authors": [
@@ -14,5 +14,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php": "8.3"
+    },
+    "require-dev": {
+        "swoole/ide-helper": "~5.0.0"
+    }
 }
