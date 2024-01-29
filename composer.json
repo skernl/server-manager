@@ -1,16 +1,26 @@
 {
     "name": "wheakerd/server-manger",
     "type": "library",
+    "keywords": [
+        "php",
+        "swoole",
+        "framework",
+        "skernl"
+    ],
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Skernl\\ServerManger\\": "src/"
+            "Skernl\\ServerManager\\": "src/"
         }
     },
     "authors": [
         {
             "name": "wheakerd",
             "email": "wheakerd@qq.com"
+        },
+        {
+            "name": "wheakerd",
+            "email": "wheakerd@gmail.com"
         }
     ],
     "minimum-stability": "dev",
